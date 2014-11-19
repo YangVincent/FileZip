@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FileZip</label>
+		<id>1396</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>FileZip.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FileZip.jcp</path>
+		</project>
+	</projects>
+</workspace>
