@@ -1,4 +1,4 @@
-/**
+ /**
  * @author: Vincent Yang
  * @Date: 11/29/11
  * This class zips and unzips files using the LZW algorithm, and can also read and write from and to files.
@@ -173,9 +173,9 @@ public class FileZip
 				else
 				{
 
-					 if (m_dictionary.get(prevCharacter) < 0 || m_dictionary.get(prevCharacter) >= (1 << numDictBits)) //
+					 if (m_dictionary.get(prevCharacter) < 0 || m_dictionary.get(prevCharacter) >= (1 < numDictBits)) //
 					 {
-					 	System.out.println("The value is " + m_dictionary.get(prevCharacter));
+					 	System.out.println("The value is " + m_dictionary.get(prevCharacter));<
 					 	return false;
 					 }
 				}
