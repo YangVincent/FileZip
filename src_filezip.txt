@@ -1,3 +1,0 @@
-"G:\\Java\\AP Projects\\FileZip\\FileZip.java"
-"G:\\Java\\AP Projects\\FileZip\\ZipTester.java"
-"G:\\Java\\AP Projects\\FileZip\\Lab Assignment A13.3 - Data files\\SnackBar.java"
